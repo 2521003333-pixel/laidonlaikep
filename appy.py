@@ -4,7 +4,7 @@ import streamlit as st
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Trinh")
 
 # Nhập dữ liệu
-C = st.number_input(
+C = st.number_input(Luong Ngoc Trinh)
     "Nhập số tiền khách hàng gửi tiết kiệm (triệu đồng)",
     min_value=0.0,
     value=100.0
